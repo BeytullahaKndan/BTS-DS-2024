@@ -1,0 +1,7 @@
+
+train: /content/data/train/images
+val: /content/data/val/images
+test: /content/data/test/images
+
+names: ['tumor']
+    
